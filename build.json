@@ -1,18 +1,24 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Reptile Martian",
+    "esc": "Favorite/LittleBee-20A",
+    "motor": "LD Power S Series",
+    "fc": "ReadyToFlyQuads/CC3D",
+    "prop": [
+      "Gemfan/5x4.5-FG-BN",
+      "HQProp/5x4x3-FG-DD"
+    ],
+    "arm": "",
+    "battery": [
+      "YPG 1500 mAh 3S 40C"
+    ],
+    "osd": "",
+    "receiver": "RadioLink/AT9-2.4GHz-9CH-Transmitter-With-R9D-9CH-Receiver",
+    "flightcam": "SurveilZone/Sony-960H-CCD-Effio-V-800TVL-Ultra-WDR",
+    "hqcam": "GoPro/HERO3-Black-Edition",
+    "videotx": "SkyZone/FPV-T600-5-8Ghz-600mW-Transmitter",
+    "blackbox": "",
+    "voltagereg": "Matek-Systems/Matek-Mini-Power-HUB-with-BEC-5V-&-12V"
+  },
+  "version": 1
 }
